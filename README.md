@@ -1,7 +1,8 @@
 # ReactNative-Redux-ApiResponse
 
 
-![](https://github.com/ritzblogs/ReactNative-Redux-ApiResponse/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-07-25%20at%2018.00.58.png)  
+<img src="https://github.com/ritzblogs/ReactNative-Redux-ApiResponse/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-07-25%20at%2018.00.58.png" a width="250" height="450">
+
 
 
 Find detailed description -https://abodeofmystories.blogspot.com/2021/07/react-native-redux-for-api-response.html

@@ -1,0 +1,6 @@
+module Pods_ReactNativeReduxAxios_ReactNativeReduxAxiosTests {
+  umbrella header "Pods-ReactNativeReduxAxios-ReactNativeReduxAxiosTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
